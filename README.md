@@ -7,9 +7,7 @@ Hi, I'm [jadehh](jadehh@live.com
 
 💬 Ask me about anything [here](https://github.com/jadehh/jadehh/issues).
 
-❤️ 投喂渠道：[⚡爱发电](https://afdian.net/@jadehh) or [🍚微信赞赏](https://github.com/jadehh/jadehh/blob/master/DONATE.md)</del>
-
-![](https://visitor-badge.laobi.icu/badge?page_id=jadehh.jadehh)
+❤️ 投喂渠道： [🍚微信赞赏](https://github.com/jadehh/jadehh/blob/master/DONATE.md)</del>
 
 <details>
 <summary>Click here for more details</summary>
