@@ -3,7 +3,7 @@
 ### Hello World! 👋
 
 Hi, I'm [jadehh](jadehh@live.com
-), a back-end 🌐 developer.
+), a full stack 🌐 developer.
 
 💬 Ask me about anything [here](https://github.com/jadehh/jadehh/issues).
 
